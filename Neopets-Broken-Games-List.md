@@ -1,5 +1,5 @@
 
-##List of Broken Neopets Games
+## List of Broken Neopets Games
 
 **A**
 | Game Name | Issue | Avatar |
