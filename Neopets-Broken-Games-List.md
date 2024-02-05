@@ -116,7 +116,7 @@
 | Game Name | Issue | Avatar |
 | --- | --- | --- |
 | [Ultimate Bullseye](https://www.neopets.com/games/ag.phtml?game_id=848) | Mechanics | No |
-| [Ultimate Bullsye II](https://www.neopets.com/games/game.phtml?game_id=903) | Mechanics | ![Score 100+](https://images.neopets.com/neoboards/avatars/bullseye.gif} |
+| [Ultimate Bullsye II](https://www.neopets.com/games/game.phtml?game_id=903) | Mechanics | ![Score 100+](https://images.neopets.com/neoboards/avatars/bullseye.gif) |
 
 **V**
 | Game Name | Issue | Avatar |
