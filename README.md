@@ -92,6 +92,7 @@ ie.Visible = 1
 > Note that the pages of the website that use the new layout will not work properly, but any page that still uses the old layout will work. 
 
 **NeoPass**
+
 IE does not natively work with neopass login! You will need to use the following workaround to login via NeoPass. 
 If your default browser, like chrome:
 1. Open developer console (ctrl + shift + i).
