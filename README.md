@@ -89,7 +89,8 @@ ie.Visible = 1
 8. head to https://neopets.com/vsilogin.phtml (old login page) to login. 
 > Note that you will need to disable your 2fa to login via IE. 
 9. Once logged in, head to https://neopets.com/games/classic.phtml to go to the game library. 
-> Note that the pages of the website that use the new layout will not work properly, but any page that still uses the old layout will work. 
+> Note that the pages of the website that use the new layout will not work properly, but any page that still uses the old layout will work.
+> >  If IE freezes trying to load Neopets, please remove neopets from Compatibility Settings! 
 
 **NeoPass**
 
