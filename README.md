@@ -1,6 +1,6 @@
 This fix follows [themrrobert](https://github.com/themrrobert/neopets-flash-fix-windows-10)'s fix utilizing Waterfox Classic and Internet Explorer instead of Pale Moon.  
 
-[![Flash Fix Video](https://github.com/SpudMonkey7k/neopets-flash-shockwave-3dvia-fix/blob/main/assets/flash-fix.mp4_20241015_205621.645.jpg)]([https://www.youtube.com/watch?v=ek1j272iAmc](https://cdn.discordapp.com/attachments/355950554301595649/1293042111968575499/flash-fix.mp4?ex=67107acf&is=670f294f&hm=cd660784fc589022312d40c59c5e163abd8b8352acc3f0516c5110ed71e2b6c7&))
+[![Flash Fix Video](https://github.com/SpudMonkey7k/neopets-flash-shockwave-3dvia-fix/blob/main/assets/flash-fix.mp4_20241015_205621.645.jpg)](https://cdn.discordapp.com/attachments/355950554301595649/1293042111968575499/flash-fix.mp4?ex=67107acf&is=670f294f&hm=cd660784fc589022312d40c59c5e163abd8b8352acc3f0516c5110ed71e2b6c7&)
 
 ### Tested on Windows 8.1 and 10; was unable to get Flash working on win11.
 > This guide will use Waterfox Classic for Flash and IE for Shockwave and 3Dvia though will also include how to install flash for IE as well. 
