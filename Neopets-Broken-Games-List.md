@@ -13,6 +13,7 @@
 | --- | --- | --- |
 | [Black Pawkeet Slots](https://www.neopets.com/games/game.phtml?game_id=1099) | Doesn't Load | No |
 | [Brucey B Slots](https://www.neopets.com/games/game.phtml?game_id=1121) | Doesn't Load | No |
+| [Bruno's Backwoods Breakaway](https://www.neopets.com/games/game.phtml?game_id=734) | Doesn't Load Properly | No |
 | [Bumble Beams](https://www.neopets.com/games/game.phtml?game_id=799) | Broken Controls | No |
 
 **C**
