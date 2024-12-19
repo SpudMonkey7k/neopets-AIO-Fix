@@ -58,7 +58,7 @@
 | [0527](https://www.neopets.com/games/game.phtml?game_id=527) | Attack of the Revenge | Action | No | No |
 | [0532](https://www.neopets.com/games/game.phtml?game_id=532) | Bouncy Supreme | Action | No | No |
 | [0536](https://www.neopets.com/games/game.phtml?game_id=536) | Time Tunnel | Puzzle | No | No |
-| [0538](https://www.neopets.com/games/game.phtml?game_id=538) | Hungry Skeith | Action | No | ![Score 1000+](https://images.neopets.com/neoboards/avatars/jellyprocessing.gif} |
+| [0538](https://www.neopets.com/games/game.phtml?game_id=538) | Hungry Skeith | Action | No | ![Score 1000+](https://images.neopets.com/neoboards/avatars/jellyprocessing.gif) |
 | [0539](https://www.neopets.com/games/game.phtml?game_id=539) | Chia Bomber 2 | Action | No | ![Score 1300+](https://images.neopets.com/neoboards/avatars/chiabomber.gif) |
 | [0540](https://www.neopets.com/games/game.phtml?game_id=540) | Meepit vs Feepit | Puzzle | No | ![Score 3000+](https://images.neopets.com/neoboards/avatars/meepvsfeep.gif) |
 | [0544](https://www.neopets.com/games/game.phtml?game_id=544) | Snow Wars 2 | Strategy | No | ![Score 10000+](https://images.neopets.com/neoboards/avatars/grundo_snowthrow.gif) |
