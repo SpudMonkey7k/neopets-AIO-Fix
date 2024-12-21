@@ -1,4 +1,4 @@
-## List of All Neopets Games in Numerical Order
+## List of All Classic Neopets Games in Numerical Order
 
 | Game Number | Game Name | Game Type | Needs Fix | Avatar |
 | --- | --- | --- | --- | --- |
