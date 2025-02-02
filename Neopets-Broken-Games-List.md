@@ -76,7 +76,7 @@
 | [The Last Blast](https://www.neopets.com/games/game.phtml?game_id=925) | 3Dvia | No |
 | [Legends of Pinball](https://www.neopets.com/games/game.phtml?game_id=1118) | Doesn't Load | No |
 | [Let it Slide](https://www.neopets.com/games/game.phtml?game_id=970) | Doesn't Load | No |
-| [Lost City Lanes](https://www.neopets.com/games/game.phtml?game_id=1108) | Doesn't Load Properly | No |
+| [Lost City Lanes](https://www.neopets.com/games/game.phtml?game_id=1108) | Doesn't Load | No |
 
 **M**
 | Game Name | Issue | Avatar |
@@ -92,6 +92,7 @@
 **P**
 | Game Name | Issue | Avatar |
 | --- | --- | --- |
+| [Pakiko](https://www.neopets.com/games/game.phtml?game_id=1369) | Doesn't load | No |
 | [Petpetsitter](https://www.neopets.com/games/game.phtml?game_id=428) | Mechanics | ![Score 2500+](https://images.neopets.com/neoboards/avatars/petpetsitter.gif) |
 
 **R**
