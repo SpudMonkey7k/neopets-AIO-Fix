@@ -129,7 +129,7 @@
 | Game Name | Issue | Avatar |
 | --- | --- | --- |
 | [Whirlpool](https://www.neopets.com/games/game.phtml?game_id=927) | Mechanics | No |
-| [Wingoball](https://www.neopets.com/games/game.phtml?game_id=606) | Mechanics | No |
+| [Wingoball](https://www.neopets.com/games/game.phtml?game_id=771) | Mechanics | No |
 
 **Z**
 | Game Name | Issue | Avatar |
