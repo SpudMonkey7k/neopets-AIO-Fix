@@ -31,3 +31,22 @@
 ![RoM2-8](https://github.com/user-attachments/assets/959ddf40-32b1-4c56-857d-01364dbe3305)
 ![RoM2-9](https://github.com/user-attachments/assets/4d23f071-a914-4537-8416-17cac97fdefc)
 ![RoM2-10](https://github.com/user-attachments/assets/6257bd3f-82cb-44cc-b95d-7a88983244ec)
+
+### Lvl 3
+>[!TIP]
+>Move to the bottom-center of the screen and push the dark bubble up, next to the treasure below the chest. Pop the bubbles directly under the chest, then pop and move the ones between the treasure in the center of the screen and the one on the right. Push the right treasure to the center, then push the center treasure into the chest. Push the right treasure up to the rock, left to the dark bubble, then up into the chest.
+>
+>You can defeat five enemies in this level for points.
+
+![RoM3-01](https://github.com/user-attachments/assets/28989bd7-1edd-4bb8-a557-267aa8e7a1c4)
+![RoM3-02](https://github.com/user-attachments/assets/fa6623b2-dc93-4c61-ad29-e10d150cca38)
+![RoM3-03](https://github.com/user-attachments/assets/552a0666-7cf5-42f5-97c5-7fead65a8f7a)
+![RoM3-04](https://github.com/user-attachments/assets/6de34502-4ff8-423b-b35a-b5ac1e105ce1)
+![RoM3-05](https://github.com/user-attachments/assets/aa7eacdc-7e5b-4b8f-8521-848bff07328e)
+![RoM3-06](https://github.com/user-attachments/assets/25e8e4c1-e689-42e2-953b-b6132f22709d)
+![RoM3-07](https://github.com/user-attachments/assets/8fdae895-68a8-4a71-9e3e-4738b83ac444)
+![RoM3-08](https://github.com/user-attachments/assets/777a8beb-76ce-4226-bba3-95130a681b4a)
+![RoM3-09](https://github.com/user-attachments/assets/3db0ad5e-2647-4823-8f52-8dbaccfe762f)
+![RoM3-10](https://github.com/user-attachments/assets/ff7bf47d-01b2-4c4d-9601-b83f5cd6d0ce)
+![RoM3-11](https://github.com/user-attachments/assets/b819d0b4-6603-476a-ab6a-1ad2821039a1)
+![RoM3-12](https://github.com/user-attachments/assets/f416933f-3d36-477a-8a10-054957f7bea1)
