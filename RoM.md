@@ -50,3 +50,22 @@
 ![RoM3-10](https://github.com/user-attachments/assets/ff7bf47d-01b2-4c4d-9601-b83f5cd6d0ce)
 ![RoM3-11](https://github.com/user-attachments/assets/b819d0b4-6603-476a-ab6a-1ad2821039a1)
 ![RoM3-12](https://github.com/user-attachments/assets/f416933f-3d36-477a-8a10-054957f7bea1)
+
+### Lvl 4
+>[!TIP]
+>Push the treasure near you to the right, down, to the right, and down again. Push the bubble up, then circle up and around the debris to the other side of the treasure. Push it left, up and left again into the chest. Push the other treasure down, left, up and left into the chest.
+>
+>This level has no enemies.
+
+![RoM4-01](https://github.com/user-attachments/assets/8881178c-074a-41a3-918c-ebeb042afabe)
+![RoM4-02](https://github.com/user-attachments/assets/ac7af639-1a2d-4600-95de-6c318034d165)
+![RoM4-03](https://github.com/user-attachments/assets/9968c3b8-74fd-448f-ba45-63f1a0aba813)
+![RoM4-04](https://github.com/user-attachments/assets/b2c63c9a-e41c-4ef9-b98f-df1c1c21d412)
+![RoM4-05](https://github.com/user-attachments/assets/03cd0e65-7209-4214-a558-389084370579)
+![RoM4-06](https://github.com/user-attachments/assets/c61b396d-33da-45a4-b2a9-1a6fe3db7d76)
+![RoM4-07](https://github.com/user-attachments/assets/ca3c36aa-8d92-4e35-8ca3-ac47736a4965)
+![RoM4-08](https://github.com/user-attachments/assets/bf2886ae-00b4-457b-935c-bb0e11343917)
+![RoM4-09](https://github.com/user-attachments/assets/ac905536-f9f9-4f87-86e2-7af80ecd0311)
+![RoM4-10](https://github.com/user-attachments/assets/9f205897-f806-45c7-b778-d295d316bbb7)
+![RoM4-11](https://github.com/user-attachments/assets/d74b3a72-7e69-4a0a-8c60-08afacc9fae8)
+![RoM4-12](https://github.com/user-attachments/assets/2e6f6fc5-15c5-44b9-a809-8c5ea004186d)
