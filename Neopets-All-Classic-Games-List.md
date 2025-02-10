@@ -179,5 +179,5 @@
 | [1330](https://www.neopets.com/games/game.phtml?game_id=1330) | Invasion Blastoids | Action | No | No |
 | [1347](https://www.neopets.com/games/game.phtml?game_id=1347) | Assignment 53 | Action | Flash | ![Score 20000+](https://images.neopets.com/neoboards/avatars/a53.gif) |
 | [1369](https://www.neopets.com/games/game.phtml?game_id=1369) | Pakiko | Puzzle | Flash | No |
-| [1370](https://www.neopets.com/games/game.phtml?game_id=1370) | Coal War Tactics | Puzzle | Shockwave | No |
+| [1370](https://www.neopets.com/games/game.phtml?game_id=1370) | Coal War Tactics | Puzzle | Flash | No |
 | [1375](https://www.neopets.com/games/game.phtml?game_id=1375) | AAA's Revenge | Action | No | No |
