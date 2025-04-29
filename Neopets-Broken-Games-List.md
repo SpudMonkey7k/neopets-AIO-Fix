@@ -4,26 +4,26 @@
 **A**
 | Game Name | Issue | Avatar | Fixed |
 | --- | --- | --- | --- |
-| [Advert Attack](https://www.neopets.com/games/game.phtml?game_id=204) | Can't Press Go! | ![Score 700+](https://images.neopets.com/neoboards/avatars/acezafara.gif) | Ruffle 6/28/25 |
+| [Advert Attack](https://www.neopets.com/games/game.phtml?game_id=204) | Can't Press Go! | ![Score 700+](https://images.neopets.com/neoboards/avatars/acezafara.gif) | Ruffle 6/28/24 |
 | [Assignment 53](https://www.neopets.com/games/game.phtml?game_id=1347) | Doesn't Load | ![Score 20000+](https://images.neopets.com/neoboards/avatars/a53.gif) | No |
 | [Attack of the Slorgs](https://www.neopets.com/games/game.phtml?game_id=386) | Shockwave | ![Score1000+](https://images.neopets.com/neoboards/avatars/attackoftheslorgs.gif) | No |
 
 **B**
 | Game Name | Issue | Avatar | Fixed |
 | --- | --- | --- | --- |
-| [Black Pawkeet Slots](https://www.neopets.com/games/game.phtml?game_id=1099) | Doesn't Load | No | Ruffle 6/28/25 |
-| [Brucey B Slots](https://www.neopets.com/games/game.phtml?game_id=1121) | Doesn't Load | No | Ruffle 6/28/25 |
-| [Bruno's Backwoods Breakaway](https://www.neopets.com/games/game.phtml?game_id=734) | Doesn't Load Properly | No | Ruffle 6/28/25 |
+| [Black Pawkeet Slots](https://www.neopets.com/games/game.phtml?game_id=1099) | Doesn't Load | No | Ruffle 6/28/24 |
+| [Brucey B Slots](https://www.neopets.com/games/game.phtml?game_id=1121) | Doesn't Load | No | Ruffle 6/28/24 |
+| [Bruno's Backwoods Breakaway](https://www.neopets.com/games/game.phtml?game_id=734) | Doesn't Load Properly | No | Ruffle 6/28/24 |
 | [Bumble Beams](https://www.neopets.com/games/game.phtml?game_id=799) | Broken Controls | No |
 
 **C**
 | Game Name | Issue | Avatar | Fixed |
 | --- | --- | --- | --- |
 | [Castle Battles](https://www.neopets.com/games/game.phtml?game_id=430) | Schockwave | No | No |
-| [Cave Glider](https://www.neopets.com/games/game.phtml?game_id=1156) | Mechanics | No | Ruffle 6/28/25 |
+| [Cave Glider](https://www.neopets.com/games/game.phtml?game_id=1156) | Mechanics | No | Ruffle 6/28/24 |
 | [Clara on Ice](https://www.neopets.com/games/game.phtml?game_id=1172) | Doesn't Load | No | No |
-| [Clockwork Codebreaker](https://www.neopets.com/games/game.phtml?game_id=1173) | Doesn't Load Properly | No | Ruffle 6/28/25 |
-| [Cloud Raiders](https://www.neopets.com/games/game.phtml?game_id=1149) | Doesn't Load Properly | No | Ruffle 6/28/25 |
+| [Clockwork Codebreaker](https://www.neopets.com/games/game.phtml?game_id=1173) | Doesn't Load Properly | No | Ruffle 6/28/24 |
+| [Cloud Raiders](https://www.neopets.com/games/game.phtml?game_id=1149) | Doesn't Load Properly | No | Ruffle 6/28/24 |
 | [Coal War Tactics](https://www.neopets.com/games/game.phtml?game_id=1370) | No Labels | No | No |
 | [Cooty Wars](https://www.neopets.com/games/game.phtml?game_id=796) | Can't Fire | No | No |
 
@@ -31,7 +31,7 @@
 | Game Name | Issue | Avatar | Fixed |
 | --- | --- | --- | --- |
 | [Dice Escape](https://www.neopets.com/games/game.phtml?game_id=356) | Shockwave | ![Score 1000+](https://images.neopets.com/neoboards/avatars/dice_escape.gif) | No |
-| [Dubloon Disaster](https://www.neopets.com/games/game.phtml?game_id=772) | Mechanics | ![Score 2500+](https://images.neopets.com/neoboards/avatars/smuggleddubloon.gif) | No |
+| [Dubloon Disaster](https://www.neopets.com/games/game.phtml?game_id=772) | Mechanics | ![Score 2500+](https://images.neopets.com/neoboards/avatars/smuggleddubloon.gif) | Ruffle 4/29/25 |
 | [Dueling Decks](https://www.neopets.com/games/game.phtml?game_id=1182) | Mechanics | No | No |
 
 **E**
@@ -62,19 +62,19 @@
 **I**
 | Game Name | Issue | Avatar | Fixed |
 | --- | --- | --- | --- |
-| [Invasion: Blastoids](https://www.neopets.com/games/game.phtml?game_id=1330) | Mechanics | No | Ruffle 6/28/25 |
+| [Invasion: Blastoids](https://www.neopets.com/games/game.phtml?game_id=1330) | Mechanics | No | Ruffle 6/28/24 |
 
 **K**
 | Game Name | Issue | Avatar | Fixed |
 | --- | --- | --- | --- |
-| [Korbats Lab](https://www.neopets.com/games/game.phtml?game_id=801) | Mechanics | ![Be in top 50](https://images.neopets.com/neoboards/avatars/freakedkorbat.gif) | No |
+| [Korbats Lab](https://www.neopets.com/games/game.phtml?game_id=801) | Mechanics | ![Be in top 50](https://images.neopets.com/neoboards/avatars/freakedkorbat.gif) | Ruffle 4/29/25 |
 | [Kreludan Mining Corp](https://www.neopets.com/games/game.phtml?game_id=404) | Mechanics | No | No |
 
 **L**
 | Game Name | Issue | Avatar | Fixed |
 | --- | --- | --- | --- |
 | [The Last Blast](https://www.neopets.com/games/game.phtml?game_id=925) | 3Dvia | No | No |
-| [Legends of Pinball](https://www.neopets.com/games/game.phtml?game_id=1118) | Doesn't Load | No |  Ruffle 6/28/25 |
+| [Legends of Pinball](https://www.neopets.com/games/game.phtml?game_id=1118) | Doesn't Load | No |  Ruffle 6/28/24 |
 | [Let it Slide](https://www.neopets.com/games/game.phtml?game_id=970) | Doesn't Load | No | No |
 | [Lost City Lanes](https://www.neopets.com/games/game.phtml?game_id=1108) | Doesn't Load | No | No |
 
@@ -87,7 +87,7 @@
 | Game Name | Issue | Avatar | Fixed |
 | --- | --- | --- | --- |
 | [Neopian Battlefield Legends](https://www.neopets.com/games/game.phtml?game_id=1221) | Menu Doesn't Load | No | No 
-| [Neverending Boss Battle](https://www.neopets.com/games/game.phtml?game_id=552) | Mechanics | No | Ruffle 6/28/25 |
+| [Neverending Boss Battle](https://www.neopets.com/games/game.phtml?game_id=552) | Mechanics | No | Ruffle 6/28/24 |
 
 **P**
 | Game Name | Issue | Avatar | Fixed |
@@ -105,8 +105,8 @@
 | Game Name | Issue | Avatar | Fixed |
 | --- | --- | --- | --- |
 | [Shenkuu River Rush](https://www.neopets.com/games/game.phtml?game_id=877) | 3Dvia | No | No |
-| [Shenkuu Warrior](https://www.neopets.com/games/game.phtml?game_id=786) | Mechanics | No | Ruffle 6/28/25 |
-| [Shenkuu Warrior II](https://www.neopets.com/games/game.phtml?game_id=1266) | Mechanics | No | Ruffle 6/28/25 |
+| [Shenkuu Warrior](https://www.neopets.com/games/game.phtml?game_id=786) | Mechanics | No | Ruffle 6/28/24 |
+| [Shenkuu Warrior II](https://www.neopets.com/games/game.phtml?game_id=1266) | Mechanics | No | Ruffle 6/28/24 |
 | [Snow Wars II](https://www.neopets.com/games/game.phtml?game_id=544) | Mechanics | ![Score 100+](https://images.neopets.com/neoboards/avatars/grundo_snowthrow.gif) | No |
 
 **T**
