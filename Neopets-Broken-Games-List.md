@@ -31,7 +31,7 @@
 | Game Name | Issue | Avatar | Fixed |
 | --- | --- | --- | --- |
 | [Dice Escape](https://www.neopets.com/games/game.phtml?game_id=356) | Shockwave | ![Score 1000+](https://images.neopets.com/neoboards/avatars/dice_escape.gif) | No |
-| [Dubloon Disaster](https://www.neopets.com/games/game.phtml?game_id=772) | Mechanics | ![Score 2500+](https://images.neopets.com/neoboards/avatars/smuggleddubloon.gif) | Ruffle 4/29/25 |
+| [Dubloon Disaster](https://www.neopets.com/games/game.phtml?game_id=772) | Can't Submit Score | ![Score 2500+](https://images.neopets.com/neoboards/avatars/smuggleddubloon.gif) | No |
 | [Dueling Decks](https://www.neopets.com/games/game.phtml?game_id=1182) | Mechanics | No | No |
 
 **E**
