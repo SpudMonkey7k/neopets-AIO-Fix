@@ -95,7 +95,7 @@ ie.Visible = 1
 **NeoPass**
 
 IE does not natively work with neopass login! You will need to use the following workaround to login via NeoPass. 
-If your default browser, like chrome:
+In your default browser, like chrome:
 1. Open developer console (ctrl + shift + i).
 2. Write `document.cookie.split(';').find(c => c.includes('neologin')).trim()` in console, hit enter and you will see something like neologin=youruserxxxxx (don't show anyone this value!!!). 
 3. Then in IE visit neopets.com
