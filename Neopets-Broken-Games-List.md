@@ -105,6 +105,7 @@
 | Game Name | Issue | Avatar | Fixed |
 | --- | --- | --- | --- |
 | [Shenkuu River Rush](https://www.neopets.com/games/game.phtml?game_id=877) | 3Dvia | No | No |
+| [Shenkuu Tangram](https://www.neopets.com/games/game.phtml?game_id=1075) | Mechanics | No | No |
 | [Shenkuu Warrior](https://www.neopets.com/games/game.phtml?game_id=786) | Mechanics | No | Ruffle 6/28/24 |
 | [Shenkuu Warrior II](https://www.neopets.com/games/game.phtml?game_id=1266) | Mechanics | No | Ruffle 6/28/24 |
 | [Snow Wars II](https://www.neopets.com/games/game.phtml?game_id=544) | Mechanics | ![Score 100+](https://images.neopets.com/neoboards/avatars/grundo_snowthrow.gif) | No |
