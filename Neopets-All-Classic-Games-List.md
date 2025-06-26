@@ -104,7 +104,7 @@
 | [0794](https://www.neopets.com/games/game.phtml?game_id=794) | Revel Roundup | Action | No | No |
 | [0796](https://www.neopets.com/games/game.phtml?game_id=796) | Cooty Wars | Action | Flash | No |
 | [0799](https://www.neopets.com/games/game.phtml?game_id=799) | Bumble Beams | Action | Flash | No |
-| [0801](https://www.neopets.com/games/game.phtml?game_id=801) | Korbats Lab | Action | Flash | ![Be in  top 50 of highscore table](https://images.neopets.com/neoboards/avatars/freakedkorbat.gif) |
+| [0801](https://www.neopets.com/games/game.phtml?game_id=801) | Korbats Lab | Action | Ruffle | ![Be in  top 50 of highscore table](https://images.neopets.com/neoboards/avatars/freakedkorbat.gif) |
 | [0818](https://www.neopets.com/games/game.phtml?game_id=818) | Snowbeast Snackrifice | Action | No | No |
 | [0820](https://www.neopets.com/games/game.phtml?game_id=820) | Roodoku | Puzzle | No | No |
 | [0821](https://www.neopets.com/games/game.phtml?game_id=821) | Edna's Shadow | Strategy | No | No |
@@ -141,7 +141,7 @@
 | [1048](https://www.neopets.com/games/game.phtml?game_id=1048) | Nimmos Pond | Action | No | ![Score 4000+](https://images.neopets.com/neoboards/avatars/nimmospond.gif) |
 | [1061](https://www.neopets.com/games/game.phtml?game_id=1061) | Super Hasee Bounce | Action | No | No |
 | [1064](https://www.neopets.com/games/game.phtml?game_id=1064) | Jungle Raiders | Action | No | No |
-| [1075](https://www.neopets.com/games/game.phtml?game_id=1075) | Shenkuu Tangram | Puzzle | No | No |
+| [1075](https://www.neopets.com/games/game.phtml?game_id=1075) | Shenkuu Tangram | Puzzle | Flash | No |
 | [1076](https://www.neopets.com/games/game.phtml?game_id=1076) | Snow Roller | Action | No | ![Score 6500+](https://images.neopets.com/neoboards/avatars/snowroller.gif) |
 | [1078](https://www.neopets.com/games/game.phtml?game_id=1078) | Petpet Plunge | Strategy | No | No |
 | [1080](https://www.neopets.com/games/game.phtml?game_id=1080) | Wheelers Wild Ride | Action | No | No |
