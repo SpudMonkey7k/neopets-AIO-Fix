@@ -67,6 +67,7 @@
 **K**
 | Game Name | Issue | Avatar | Fixed |
 | --- | --- | --- | --- |
+| [Kookia](https://www.neopets.com/games/game.phtml?game_id=1189) | Mechanics | No | No |
 | [Korbats Lab](https://www.neopets.com/games/game.phtml?game_id=801) | Mechanics | ![Be in top 50](https://images.neopets.com/neoboards/avatars/freakedkorbat.gif) | Ruffle 4/29/25 |
 | [Kreludan Mining Corp](https://www.neopets.com/games/game.phtml?game_id=404) | Mechanics | No | No |
 
