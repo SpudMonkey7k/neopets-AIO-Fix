@@ -44,7 +44,7 @@
 **F**
 | Game Name | Issue | Avatar | Fixed |
 | --- | --- | --- | --- |
-| [Frumball](https://www.neopets.com/games/dgs/play_shockwave.phtml?va=&game_id=313&nc_referer=&age=0&hiscore=&sp=0&questionSet=&r=5434805&&width=520&height=560&quality=high) | Schockwave | No | No |
+| [Frumball](https://www.neopets.com/games/dgs/play_shockwave.phtml?va=&game_id=313&nc_referer=&age=0&hiscore=&sp=0&questionSet=&r=5434805&&width=520&height=560&quality=high) | Shockwave | No | No |
 
 **G**
 | Game Name | Issue | Avatar | Fixed |
