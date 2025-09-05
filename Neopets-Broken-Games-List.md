@@ -19,7 +19,7 @@
 **C**
 | Game Name | Issue | Avatar | Fixed |
 | --- | --- | --- | --- |
-| [Castle Battles](https://www.neopets.com/games/game.phtml?game_id=430) | Schockwave | No | No |
+| [Castle Battles](https://www.neopets.com/games/game.phtml?game_id=430) | Shockwave | No | No |
 | [Cave Glider](https://www.neopets.com/games/game.phtml?game_id=1156) | Mechanics | No | Ruffle 6/28/24 |
 | [Clara on Ice](https://www.neopets.com/games/game.phtml?game_id=1172) | Doesn't Load | No | No |
 | [Clockwork Codebreaker](https://www.neopets.com/games/game.phtml?game_id=1173) | Doesn't Load Properly | No | Ruffle 6/28/24 |
@@ -56,7 +56,7 @@
 | --- | --- | --- | --- |
 | [Hannah and the Ice Caves](https://www.neopets.com/games/game.phtml?game_id=473) | Shockwave | No | No |
 | [Hannah and the Kreludor Caves](https://www.neopets.com/games/game.phtml?game_id=1252) | Mechanics | No | No |
-| [Hannah and the Pirate Caves](https://www.neopets.com/games/game.phtml?game_id=349) | Schockwave | ![Score 150000+](https://images.neopets.com/neoboards/avatars/hatpc.gif) | No |
+| [Hannah and the Pirate Caves](https://www.neopets.com/games/game.phtml?game_id=349) | Shockwave | ![Score 150000+](https://images.neopets.com/neoboards/avatars/hatpc.gif) | No |
 | [Hot Dog Hero](https://www.neopets.com/games/game.phtml?game_id=965) | Broken Controls | No | No |
 
 **I**
@@ -100,7 +100,7 @@
 | Game Name | Issue | Avatar | Fixed |
 | --- | --- | --- | --- |
 | [Ready to roll](https://www.neopets.com/games/game.phtml?game_id=934) | Mechanics | No | No |
-| [The Return of the Return of Dr. Sloth](https://www.neopets.com/games/game.phtml?game_id=480) | Schockwave | No | No |
+| [The Return of the Return of Dr. Sloth](https://www.neopets.com/games/game.phtml?game_id=480) | Shockwave | No | No |
 
 **S**
 | Game Name | Issue | Avatar | Fixed |
