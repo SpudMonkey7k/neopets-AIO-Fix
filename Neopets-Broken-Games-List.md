@@ -55,7 +55,7 @@
 | Game Name | Issue | Avatar | Fixed |
 | --- | --- | --- | --- |
 | [Hannah and the Ice Caves](https://www.neopets.com/games/game.phtml?game_id=473) | Shockwave | No | No |
-| [Hannah and the Kreludor Caves](https://www.neopets.com/games/game.phtml?game_id=1252) | Mechanics | No | No |
+| [Hannah and the Kreludor Caves](https://www.neopets.com/games/game.phtml?game_id=1252) | Mechanics | No | Ruffle 9/6/25 |
 | [Hannah and the Pirate Caves](https://www.neopets.com/games/game.phtml?game_id=349) | Shockwave | ![Score 150000+](https://images.neopets.com/neoboards/avatars/hatpc.gif) | No |
 | [Hot Dog Hero](https://www.neopets.com/games/game.phtml?game_id=965) | Broken Controls | No | No |
 
@@ -77,7 +77,7 @@
 | [The Last Blast](https://www.neopets.com/games/game.phtml?game_id=925) | 3Dvia | No | No |
 | [Legends of Pinball](https://www.neopets.com/games/game.phtml?game_id=1118) | Doesn't Load | No |  Ruffle 6/28/24 |
 | [Let it Slide](https://www.neopets.com/games/game.phtml?game_id=970) | Doesn't Load | No | No |
-| [Lost City Lanes](https://www.neopets.com/games/game.phtml?game_id=1108) | Doesn't Load | No | No |
+| [Lost City Lanes](https://www.neopets.com/games/game.phtml?game_id=1108) | Doesn't Load | No | Ruffle 9/6/25 |
 
 **M**
 | Game Name | Issue | Avatar | Fixed |
