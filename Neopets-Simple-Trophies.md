@@ -122,64 +122,64 @@ These eight games are score capped, you will receive gold for hitting the Max sc
 | ![trophy](http://images.neopets.com/trophies/734_1.gif) | [Bruno's Backwoods Breakaway](https://www.neopets.com/games/game.phtml?game_id=734) | [JN Guide](https://www.jellyneo.net/?go=brunos_backwoods_breakaway) |
 >[!NOTE]
 >- Gold: Score 5,180
->- Silver: First lower score than 5,180
->- Bronze: Second lower score than 5,180
+>- Silver: Next 5 scores
+>- Bronze: Next 9 scores
 
 | Trophy | Game | Guide |
 | --- | --- | --- |
 | ![trophy](http://images.neopets.com/trophies/539_1.gif) | [Chia Bomber 2](https://www.neopets.com/games/game.phtml?game_id=539) | [JN Guide](https://www.jellyneo.net/?go=chia_bomber_2) |
 >[!NOTE]
 >- Gold: Score 1,687
->- Silver: First lower score than 1,687
->- Bronze: Second lower score than 1,687
+>- Silver: Next 5 scores
+>- Bronze: Next 9 scores
 
 | Trophy | Game | Guide |
 | --- | --- | --- |
 | ![trophy](http://images.neopets.com/trophies/1173_1.gif) | [Clockwork Codebreaker](http://www.neopets.com/games/game.phtml?game_id=1173) | [JN Guide](https://www.jellyneo.net/?go=clockwork_codebreaker) |
 >[!NOTE]
 >- Gold: Score 1,000
->- Silver: First lower score than 1,000
->- Bronze: Second lower score than 1,000
+>- Silver: Next 5 scores
+>- Bronze: Next 9 scores
 
 | Trophy | Game | Guide |
 | --- | --- | --- |
 | ![trophy](http://images.neopets.com/trophies/962_1.gif) | [Dungeon Dash](http://www.neopets.com/games/game.phtml?game_id=962) | [JN Guide](https://www.jellyneo.net/?go=dungeon_dash) |
 >[!NOTE]
 >- Gold: Score 5,000
->- Silver: First lower score than 5,000
->- Bronze: Second lower score than 5,000
+>- Silver: Next 5 scores
+>- Bronze: Next 9 scores
 
 | Trophy | Game | Guide |
 | --- | --- | --- |
 | ![trophy](http://images.neopets.com/trophies/489_1.gif) | [Faerie Caves II](http://www.neopets.com/games/game.phtml?game_id=489) | [JN Guide](https://www.jellyneo.net/?go=faerie_caves_2) |
 >[!NOTE]
 >- Gold: Score 1,520
->- Silver: First lower score than 1,520
->- Bronze: Second lower score than 1,520
+>- Silver: Next 5 scores
+>- Bronze: Next 9 scores
 
 | Trophy | Game | Guide |
 | --- | --- | --- |
 | ![trophy](http://images.neopets.com/trophies/212_1.gif) | [Grand Theft Ummagine](http://www.neopets.com/games/game.phtml?game_id=212) | [JN Guide](https://www.jellyneo.net/?go=grand_theft_ummagine) |
 >[!NOTE]
 >- Gold: Score 1,250
->- Silver: First lower score than 1,250
->- Bronze: Second lower score than 1,250
+>- Silver: Next 5 scores
+>- Bronze: Next 9 scores
 
 | Trophy | Game | Guide |
 | --- | --- | --- |
 | ![trophy](http://images.neopets.com/trophies/600_1.gif) | [Ruins Rampage](http://www.neopets.com/games/game.phtml?game_id=600) | [JN Guide](https://www.jellyneo.net/?go=ruins_rampage) |
 >[!NOTE]
 >- Gold: Score 850
->- Silver: First lower score than 850
->- Bronze: Second lower score than 850
+>- Silver: Next 5 scores
+>- Bronze: Next 9 scores
 
 | Trophy | Game | Guide |
 | --- | --- | --- |
 | ![trophy](http://images.neopets.com/trophies/1204_1.gif) | [Ugga Drop](http://www.neopets.com/games/game.phtml?game_id=1204) | [JN Guide](https://www.jellyneo.net/?go=ugga_drop) |
 >[!NOTE]
 >- Gold: Score 40,000 (any score above this is rejected even though 42,600 is attainable)
->- Silver: First lower score than 40,000
->- Bronze: Second lower score than 40,000
+>- Silver: Next 5 scores
+>- Bronze: Next 9 scores
 
 ### Other
 No real skill is needed for these, just be better or faster than others
