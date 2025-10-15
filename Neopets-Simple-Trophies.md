@@ -198,6 +198,12 @@ No real skill is needed for these, just be better or faster than others
 
 | Trophy | Game | Guide |
 | --- | --- | --- |
+| ![trophy](http://images.neopets.com/trophies/10_1.gif) | [Dice-A-Roo](https://www.neopets.com/games/dicearoo.phtml) | [JN Guide](https://www.jellyneo.net/?go=dice_a_roo) |
+>[!NOTE]
+>Play daily, win a high enough jackpot
+
+| Trophy | Game | Guide |
+| --- | --- | --- |
 | ![trophy](http://images.neopets.com/trophies/178_1.gif) | [Double or Nothing](https://www.neopets.com/medieval/doubleornothing.phtml) | [JN Guide](https://www.jellyneo.net/?go=double_or_nothing) |
 >[!NOTE]
 >Play daily, double check HST to see what score you need. Easier on first of the month
