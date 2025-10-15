@@ -192,6 +192,18 @@ No real skill is needed for these, just be better or faster than others
 
 | Trophy | Game | Guide |
 | --- | --- | --- |
+| ![trophy](http://images.neopets.com/trophies/155_1.gif) | [Cheeseroller](https://www.neopets.com/medieval/cheeseroller.phtml) | [JN Guide](https://www.jellyneo.net/?go=cheeseroller) |
+>[!NOTE]
+>Play daily, easier to trophy on the first of August
+
+| Trophy | Game | Guide |
+| --- | --- | --- |
+| ![trophy](http://images.neopets.com/trophies/178_1.gif) | [Double or Nothing](https://www.neopets.com/medieval/doubleornothing.phtml) | [JN Guide](https://www.jellyneo.net/?go=double_or_nothing) |
+>[!NOTE]
+>Play daily, double check HST to see what score you need. Easier on first of the month
+
+| Trophy | Game | Guide |
+| --- | --- | --- |
 | ![trophy](http://images.neopets.com/trophies/97_1.gif) | [Fetch](http://www.neopets.com/games/maze/maze.phtml) | [JN Guide](https://www.jellyneo.net/?go=fetch) |
 >[!NOTE]
 >Cmulative score, but not many play this game 
@@ -220,6 +232,14 @@ No real skill is needed for these, just be better or faster than others
 
 | Trophy | Game | Guide |
 | --- | --- | --- |
+| ![trophy](http://images.neopets.com/trophies/154_1.gif) | [Kiss The Mortog](https://www.neopets.com/medieval/kissthemortog.phtml) | [JN Guide](https://www.jellyneo.net/?go=kiss_the_mortog) |
+>[!NOTE]
+>Fairly easy to get a score of 5900, then wait for score to get bumped up the HST
+>
+>Some patterns unclude `1224`, `2121`, or `2333`
+
+| Trophy | Game | Guide |
+| --- | --- | --- |
 | ![trophy](http://images.neopets.com/trophies/231_1.gif) | [Petpet Battles](http://www.neopets.com/games/petpet_battle/index.phtml) | [JN Guide](https://www.jellyneo.net/?go=petpet_battles) |
 >[!NOTE]
 >You can usually get bronze on the first of the month just by winning one battle
@@ -229,6 +249,18 @@ No real skill is needed for these, just be better or faster than others
 | ![trophy](http://images.neopets.com/trophies/54_1.gif) | [Neggsweeper](http://www.neopets.com/games/neggsweeper/index.phtml) | [JN Guide](https://www.jellyneo.net/?go=neggsweeper) |
 >[!NOTE]
 >You have a good chance to get bronze on the first of the month
+
+| Trophy | Game | Guide |
+| --- | --- | --- |
+| ![trophy](http://images.neopets.com/trophies/177_1.gif) | [Round Table Poker](https://www.neopets.com/games/draw_poker/round_table_poker.phtml) | [JN Guide](https://www.jellyneo.net/?go=round_table_poker) |
+>[!NOTE]
+>Beat tournament 5 for a runner-up trophy
+
+| Trophy | Game | Guide |
+| --- | --- | --- |
+| ![trophy](http://images.neopets.com/trophies/177_1.gif) | [Scarab 21](https://www.neopets.com/games/scarab21/index.phtml) | [JN Guide](https://www.jellyneo.net/?go=scarab_21) |
+>[!NOTE]
+>Play daily, get a high score in a single game
 
 | Trophy | Game | Guide |
 | --- | --- | --- |
@@ -242,7 +274,11 @@ No real skill is needed for these, just be better or faster than others
 >[!NOTE]
 >You can usually get bronze muich easier without reaching max level on the fist of the month
 
-
+| Trophy | Game | Guide |
+| --- | --- | --- |
+| ![trophy](http://images.neopets.com/trophies/47_1.gif) | [Tyranu Evavu](https://www.neopets.com/games/tyranuevavu.phtml) | [JN Guide](https://www.jellyneo.net/?go=tyranu_evavu) |
+>[!NOTE]
+>Play daily, easier to trophy on the first of the month
 
 
 
