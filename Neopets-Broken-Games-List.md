@@ -76,7 +76,6 @@
 **L**
 | Game Name | Issue | Avatar | Fixed |
 | --- | --- | --- | --- |
-| [The Last Blast](https://www.neopets.com/games/game.phtml?game_id=925) | 3Dvia | No | No |
 | [Legends of Pinball](https://www.neopets.com/games/game.phtml?game_id=1118) | Doesn't Load | No |  Ruffle 6/28/24 |
 | [Let it Slide](https://www.neopets.com/games/game.phtml?game_id=970) | Doesn't Load | No | No |
 | [Lost City Lanes](https://www.neopets.com/games/game.phtml?game_id=1108) | Doesn't Load | No | Ruffle 9/6/25 |
@@ -102,7 +101,6 @@
 | Game Name | Issue | Avatar | Fixed |
 | --- | --- | --- | --- |
 | [Ready to roll](https://www.neopets.com/games/game.phtml?game_id=934) | Mechanics | No | No |
-| [The Return of the Return of Dr. Sloth](https://www.neopets.com/games/game.phtml?game_id=480) | Shockwave | No | No |
 
 **S**
 | Game Name | Issue | Avatar | Fixed |
@@ -117,6 +115,8 @@
 | Game Name | Issue | Avatar | Fixed |
 | --- | --- | --- | --- |
 | [Terror Mountain Tilt](https://www.neopets.com/games/game.phtml?game_id=925) | 3Dvia | No | No |
+| [The Last Blast](https://www.neopets.com/games/game.phtml?game_id=925) | 3Dvia | No | No |
+| [The Return of the Return of Dr. Sloth](https://www.neopets.com/games/game.phtml?game_id=480) | Shockwave | No | No |
 | [Tubular Kiko Racing](https://www.neopets.com/games/game.phtml?game_id=606) | Level Doesn't Load | No | No |
 
 **U**
