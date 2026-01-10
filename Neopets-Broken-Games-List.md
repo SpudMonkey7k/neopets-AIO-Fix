@@ -69,7 +69,7 @@
 **K**
 | Game Name | Issue | Avatar | Fixed |
 | --- | --- | --- | --- |
-| [Kookia](https://www.neopets.com/games/game.phtml?game_id=1189) | Mechanics | No | No |
+| [Kookia](https://www.neopets.com/games/game.phtml?game_id=1189) | Mechanics | No | Ruffle 1/09/25 |
 | [Korbats Lab](https://www.neopets.com/games/game.phtml?game_id=801) | Mechanics | ![Be in top 50](https://images.neopets.com/neoboards/avatars/freakedkorbat.gif) | Ruffle 4/29/25 |
 | [Kreludan Mining Corp](https://www.neopets.com/games/game.phtml?game_id=404) | Mechanics | No | No |
 
@@ -88,7 +88,7 @@
 **N**
 | Game Name | Issue | Avatar | Fixed |
 | --- | --- | --- | --- |
-| [Neopian Battlefield Legends](https://www.neopets.com/games/game.phtml?game_id=1221) | Menu Doesn't Load | No | No 
+| [Neopian Battlefield Legends](https://www.neopets.com/games/game.phtml?game_id=1221) | Menu Doesn't Load | No | Ruffle 1/09/26 | 
 | [Neverending Boss Battle](https://www.neopets.com/games/game.phtml?game_id=552) | Mechanics | No | Ruffle 6/28/24 |
 
 **P**
@@ -117,7 +117,7 @@
 | [Terror Mountain Tilt](https://www.neopets.com/games/game.phtml?game_id=925) | 3Dvia | No | No |
 | [The Last Blast](https://www.neopets.com/games/game.phtml?game_id=925) | 3Dvia | No | No |
 | [The Return of the Return of Dr. Sloth](https://www.neopets.com/games/game.phtml?game_id=480) | Shockwave | No | No |
-| [Tubular Kiko Racing](https://www.neopets.com/games/game.phtml?game_id=606) | Level Doesn't Load | No | No |
+| [Tubular Kiko Racing](https://www.neopets.com/games/game.phtml?game_id=606) | Level Doesn't Load | No | Ruffle 1/09/26 |
 
 **U**
 | Game Name | Issue | Avatar | Fixed |
